@@ -16,4 +16,5 @@ export default function ProductItem({ product }) {
       <p>Rating: {product.rating.rate}</p>
     </div>
   );
+  // Product item update
 }
